@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Base de données : `challenge48h`
+-- Base de données : `heroku_51829f5bc18443e`
 --
 
 -- --------------------------------------------------------
